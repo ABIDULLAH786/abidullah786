@@ -6,7 +6,7 @@
 <h3>MERN Stack | React Js | Java | C++ | C# | Git - Github | Node JS | Material-UI Bootstrap Semantic-UI </h3>
  
 - 🔭 I’m currently working on  **Full Stack Web Developer**. 
-- 🌱 I’m currently learning **AI with **
+- 🌱 I’m currently learning **Full stack web development and AI with Python (Django)**
 - 👯 I’m looking to collaborate on **Java, Web Applications**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
 - 📫 Reach me at **abidullah.se@gmail.com**
