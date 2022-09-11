@@ -3,12 +3,12 @@
   <h3 align="center"> I am highly motivated and energetic Computer Science student who believes in learning by solving challenging tasks. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development. </h3>
 <hr style=" border-top: 3px solid #bbb">
 <h2> My Skills </h2>
-<h3>MERN Stack | React Js | Java | C++ | C# | Git - Github | Node JS | Material-UI Bootstrap Semantic-UI </h3>
+<h3>MERN Stack | React Js | Node JS | JWT | Squelize | Knex.js | React Framer Motion | Git - Github Java | C++ | C# | Material-UI Bootstrap Semantic-UI </h3>
  
 - 🔭 I’m currently working on  **Full Stack Web Developer**. 
-- 🌱 I’m currently learning **Full stack web development and AI with Python (Django)**
+- 🌱 I’m currently learning **Full stack web development and AI with in Web**
 - 👯 I’m looking to collaborate on **Java, Web Applications**  
-- 💬 Ask me about **Java & Full Stack Web Development**.  
+- 💬 Ask me about **Full Stack Web Development**.  
 - 📫 Reach me at **abidullah.se@gmail.com**
   ![Profile views](https://gpvc.arturio.dev/ABIDULLAH786)  
  
