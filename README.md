@@ -3,7 +3,7 @@
   <h3 align="center"> I'm a highly motivated and energetic web developer with 1 year of experience, passionate about tackling challenging tasks and finding creative solutions. I'm adept at applying diverse technical skills to real-world development projects, ensuring efficient and effective outcomes. </h3>
 <hr style=" border-top: 3px solid #bbb">
 <h2> My Skills </h2>
-<h3>MERN Stack | React Js | Node JS | JWT | Squelize | Knex.js | React Framer Motion | Git - Github Java | C++ | C# | Material-UI Bootstrap Semantic-UI </h3>
+<h3>MERN Stack | React Js | Node JS | JWT | Squelize | Knex.js | React Framer Motion | Git - Github | Material-UI Bootstrap Semantic-UI </h3>
  
 - 🔭 I’m currently working on  **Full Stack Web Developer**. 
 - 🌱 I’m currently learning **Full stack web development and AI with in Web**
