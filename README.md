@@ -1,6 +1,6 @@
 <h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, It's me ABIDULLAH</h1>
   <hr style=" border-top: 3px solid #bbb">
-  <h3 align="center"> I'm a highly motivated and energetic web developer with 1 year of experience, passionate about tackling challenging tasks and finding creative solutions. I'm adept at applying diverse technical skills to real-world development projects, ensuring efficient and effective outcomes. </h3>
+  <h3 align="center"> I'm a highly motivated and energetic web developer with over 4 years of experience, passionate about tackling challenging tasks and finding creative solutions. I'm adept at applying diverse technical skills to real-world development projects, ensuring efficient and effective outcomes. </h3>
 <hr style=" border-top: 3px solid #bbb">
 <h2> My Skills </h2>
 <h3>MERN Stack | React Js | Node JS | JWT | Squelize | Knex.js | React Framer Motion | Git - Github | Material-UI Bootstrap Semantic-UI </h3>
