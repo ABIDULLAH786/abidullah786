@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **Full stack web development and AI with in Web**
 - 👯 I’m looking to collaborate on **Java, Web Applications**  
 - 💬 Ask me about **Full Stack Web Development**.  
-- 📫 Reach me at **abidullah.se@gmail.com**
-  ![Profile views](https://gpvc.arturio.dev/ABIDULLAH786)  
+- 📫 Reach me at **abidullah.se@gmail.com** & [![Whatsapp Badge](https://img.shields.io/badge/-923112487204-lightgreen?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/923112487204)
  
     [<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/abidullah786)      [<img src='https://img.icons8.com/nolan/64/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abidullah786)    [<img src='https://img.icons8.com/nolan/64/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/abidullah786)     [<img src='https://img.icons8.com/nolan/64/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/abidullah_786/)    [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/abidullah786/) 
 
@@ -33,11 +32,11 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadusmanuet&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABIDULLAH786&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusmanuet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABIDULLAH786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ABIDULLAH786)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ABIDULLAH786&show_icons=true&theme=dark)  
 
 ---
 
