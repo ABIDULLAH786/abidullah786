@@ -32,16 +32,16 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABIDULLAH786&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABIDULLAH786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidullah786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ABIDULLAH786&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abidullah786&show_icons=true&theme=dark)  
 
 ---
 
 
 <!-- Edpoint not working for the following : need to find the alternatives
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abidullah786&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABIDULLAH786)](https://github.com/ryo-ma/github-profile-trophy)
 
